@@ -1,3 +1,6 @@
+.editorconfig
+/dist/
+
 # Logs
 logs
 *.log
